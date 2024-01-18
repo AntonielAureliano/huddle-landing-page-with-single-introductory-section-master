@@ -19,7 +19,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 ### Links
 
 - Solution URL:(https://github.com/AntonielAureliano/huddle-landing-page-with-single-introdu)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://antonielaureliano.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ### Built with
 
